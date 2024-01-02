@@ -1,10 +1,11 @@
-# HELLO THERE!
+# HERE's MY DESK!
 
 ### My Stats
 
+[![Keegan's github stats](https://github-readme-stats.vercel.app/api?username=KeegTheBoi&theme=blue-green)](https://github.com/KeegTheBoi)
 
 #### Brief summary
-📚currently studying at Unibo as CSE bachelor degree
+📚Currently studying at Unibo as CSE bachelor degree
 
 + 🧑‍💻Functional and Pipeline is future
 + ❤️‍🔥 Observe ad so does your mind sees
