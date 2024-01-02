@@ -1,6 +1,18 @@
-HELLO THERE!
+# HELLO THERE!
 
+### My Stats
+
+
+#### Brief summary
 📚currently studying at Unibo as CSE bachelor degree
-🧑‍💻love to code OOP
-❤️‍🔥avid C# fanatic 😜
-🧪I am keen to experimenting new things 
+
++ 🧑‍💻Functional and Pipeline is future
++ ❤️‍🔥 Observe ad so does your mind sees
++ 🧪keen to experiment new flavour of crazyness
+
+### Repertage
+> [!TIP]
+> + Carneval of memory
+> + Clearly made for OCD's
+> + I think we gently evolved lad
+> + Directed by OS core
