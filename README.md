@@ -7,7 +7,6 @@
 #### Brief summary
 📚Currently studying at Unibo as CSE bachelor degree
 
-+ 🧑‍💻Functional and Pipeline is future
 + ❤️‍🔥 Observe ad so does your mind sees
 + 🧪keen to experiment new flavour of crazyness
 
